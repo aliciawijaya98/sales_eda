@@ -6,7 +6,9 @@ This project analyzes a sales transaction dataset to identify patterns that may 
 
 #### Dataset
 Source: Kaggle
+
 Practice EDA on this Sales Dataset – Dhruv Kothari
+
 https://www.kaggle.com/datasets/dhruvkothari19/practice-eda-on-this-sales-dataset
 
 #### Project Objectives
